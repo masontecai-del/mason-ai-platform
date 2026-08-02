@@ -6,12 +6,10 @@ This folder contains all technical documents for the platform.
 
 ## Documents
 
-- Architecture
-- Roadmap
-- API Documentation
-- Development Guide
-- Deployment Guide
-
----
+- [Architecture](architecture.md)
+- [Roadmap](roadmap.md)
+- [API Documentation](api.md)
+- [Development Guide](development.md)
+- [Deployment Guide](deployment.md)
 
 © Mason Technology Ltd.
